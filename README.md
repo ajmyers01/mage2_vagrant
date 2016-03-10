@@ -5,7 +5,7 @@ The Magento 2 repository is a git submodule and can be edited/explored from the 
 
 ### Usage
 #### Installation
-1. Clone this repository: `git clone --recursive https://github.com/rgranadino/mage2_vagrant.git`
+1. Clone this repository: `git clone --recursive https://github.com/ajmyers01/mage2_vagrant.git`
 2. Navigate into the repository via `cd`
 2. **IMPORTANT**: If you cloned the repository without the *--recursive* param, you need to initialize the required submodules: `git submodule update --init --recursive`
 3. Start up virtual machine: `vagrant up`
